@@ -222,5 +222,5 @@
             </UserAccounts>
         </component>
     </settings>
-    <cpi:offlineImage cpi:source="wim:c:/users/administrator/desktop/win2019/install.wim#Windows Server 2019 SERVERSTANDARD" xmlns:cpi="urn:schemas-microsoft-com:cpi" />
+    <cpi:offlineImage cpi:source="wim:c:/users/administrator/desktop/win2022/install.wim#Windows Server 2022 SERVERSTANDARD" xmlns:cpi="urn:schemas-microsoft-com:cpi" />
 </unattend>
